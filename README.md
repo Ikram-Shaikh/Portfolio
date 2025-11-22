@@ -69,4 +69,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories**
+⭐ **Feel free to explore my repositories and leave a star if you like something!**
