@@ -9,7 +9,7 @@
 - 🧩 Passionate about solving complex problems and building scalable systems
 - 🤝 Open to collaborating on impactful tech projects
 - 📚 Always learning and exploring new technologies
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ikramshaikh1648@gmail.com**
 
 ---
 
@@ -39,15 +39,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Shaikh&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Shaikh&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Ikram-Shaikh&theme=radical" />
 </p>
 
 ---
@@ -63,10 +63,10 @@
 
 ### 🤝 Let's Connect
 <p>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/Ikram-Shaikh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Ikram-Shaikh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and leave a star if you like something!**
+⭐ **Feel free to explore my repositories**
