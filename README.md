@@ -1,4 +1,4 @@
-﻿# Ikram Shaikh — Portfolio
+[﻿# Ikram Shaikh — Portfolio
 
 Hi! I'm Ikram Shaikh — Senior Software Developer (Backend & Distributed Systems).
 
@@ -35,3 +35,4 @@ For production apps consider TypeScript and `typescript-eslint`. See the Vite te
 ---
 
 Feel free to update this README with more about yourself, projects, and instructions.
+](https://github.com/Ikram-Shaikh/Portfolio.git)
