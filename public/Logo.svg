@@ -1,0 +1,8 @@
+<svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="240" height="120" rx="15" fill="#0F172A"></rect>
+  <text x="25%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#38BDF8" font-family="monospace">&lt;</text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="45" fill="#F8FAFC" font-family="Poppins" font-weight="bold">
+    IS
+  </text>
+  <text x="75%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#38BDF8" font-family="monospace">&gt;</text>
+</svg>
